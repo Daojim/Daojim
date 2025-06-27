@@ -10,13 +10,9 @@
 - [Calculator](https://github.com/Daojim/calculator) – A simple calculator built with HTML/CSS/JavaScript  
 - [Pokédex App](https://github.com/Daojim/pokedex) – A Flask-based app fetching real-time Pokémon data using the PokéAPI
 
-## 🔧 Tech Stack
-- **Languages:** Java, Python, JavaScript/TypeScript, SQL, Bash  
-- **Web Development:** React, Angular, Flask, HTML, CSS, Tailwind  
-- **Tools & Platforms:** Git, GitHub, Vite, Linux CLI, AWS  
-- **Databases:** MySQL, MongoDB  
+## 💻 Tech Stack
 
-## 💻 Languages & Tools
+**Languages:**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -24,6 +20,7 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+**Web Development:**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -31,14 +28,17 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
+**Tools & Platforms:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+**Databases:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 ## 🎮 About Me
 When I’m not coding, I’m probably:
@@ -47,6 +47,7 @@ When I’m not coding, I’m probably:
 - 📚 Always learning, building, and looking to collaborate on interesting projects
 
 ## 📫 How to reach me
+- Email: [daojim.dev@gmail.com](mailto:daojim.dev@gmail.com)
 - LinkedIn: [linkedin.com/in/daojim](https://www.linkedin.com/in/daojim)  
 ---
 
