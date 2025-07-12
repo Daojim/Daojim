@@ -7,7 +7,6 @@
 ## 🛠️ Projects
 - [To-Do List App](https://github.com/Daojim/to-do-list) – TypeScript + React with basic task CRUD functionality  
 - [Pomodoro Timer](https://github.com/Daojim/pomodoro) – A focused productivity timer built with React  
-- [Calculator](https://github.com/Daojim/calculator) – A simple calculator built with HTML/CSS/JavaScript  
 - [Pokédex App](https://github.com/Daojim/pokedex) – A Flask-based app fetching real-time Pokémon data using the PokéAPI
 
 ## 💻 Tech Stack
