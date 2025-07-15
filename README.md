@@ -5,6 +5,7 @@
 - 🚀 I'm actively transitioning from a background in HVAC and sales into tech, bringing real-world problem-solving and customer service skills into every project.
 
 ## 🛠️ Projects
+- [Personal Portfolio](https://jimmydao-portfolio.vercel.app/) - Check out my portfolio!
 - [To-Do List App](https://github.com/Daojim/to-do-list) – TypeScript + React with basic task CRUD functionality  
 - [Pomodoro Timer](https://github.com/Daojim/pomodoro) – A focused productivity timer built with React  
 - [Pokédex App](https://github.com/Daojim/pokedex) – A Flask-based app fetching real-time Pokémon data using the PokéAPI
