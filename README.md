@@ -5,6 +5,7 @@
 - 🚀 I'm actively transitioning from a background in HVAC and sales into tech, bringing real-world problem-solving and customer service skills into every project.
 
 ## 🛠️ Projects
+- [LAN Beam](https://github.com/Daojim/lan_beam/) - Fast local network file transfers for Windows
 - [Personal Portfolio](https://jimmydao-portfolio.vercel.app/) - Check out my portfolio!
 - [To-Do List App](https://github.com/Daojim/to-do-list) – TypeScript + React with basic task CRUD functionality  
 - [Pomodoro Timer](https://github.com/Daojim/pomodoro) – A focused productivity timer built with React  
