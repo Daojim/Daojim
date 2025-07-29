@@ -7,7 +7,6 @@
 ## 🛠️ Projects
 - [LAN Beam](https://github.com/Daojim/lan_beam/) - Fast local network file transfers for Windows
 - [Personal Portfolio](https://jimmydao-portfolio.vercel.app/) - Check out my portfolio!
-- [To-Do List App](https://github.com/Daojim/to-do-list) – TypeScript + React with basic task CRUD functionality  
 - [Pomodoro Timer](https://github.com/Daojim/pomodoro) – A focused productivity timer built with React  
 - [Pokédex App](https://github.com/Daojim/pokedex) – A Flask-based app fetching real-time Pokémon data using the PokéAPI
 
